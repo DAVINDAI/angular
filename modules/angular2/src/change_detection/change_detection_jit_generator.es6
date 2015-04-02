@@ -63,6 +63,7 @@ ${DISPATCHER_ACCESSOR} = dispatcher;
 ${PIPE_REGISTRY_ACCESSOR} = pipeRegistry;
 ${PROTOS_ACCESSOR} = protos;
 ${MEMENTOS_ACCESSOR} = directiveMementos;
+${LOCALS_ACCESSOR} = null;
 ${fieldsDefinitions}
 }
 
